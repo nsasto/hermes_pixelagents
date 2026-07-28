@@ -1,3 +1,5 @@
+> **Hermes Pixel Agents** is an Untrue Axioms fork of [Pixel Agents](https://github.com/pablodelucca/pixel-agents), adapting its standalone pixel-office interface to visualise and orchestrate Hermes agents. The upstream project remains available as the `upstream` remote; upstream MIT licensing and notices are preserved.
+
 <h1 align="center">
   <a href="https://github.com/pixel-agents-hq/pixel-agents/discussions">
     <img src="webview-ui/public/banner.png" alt="Pixel Agents">
